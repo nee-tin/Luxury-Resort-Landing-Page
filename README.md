@@ -1,5 +1,5 @@
 # Luxury-Resort-Landing-Page
-# <img src="https://raw.githubusercontent.com/nee-tin/assets/main/lux-resort.png" width="full" alt="Dtry Icon">
+# <img src="https://raw.githubusercontent.com/nee-tin/assets/main/lux-hotel.png" width="full" alt="Dtry Icon">
 
 A modern, responsive luxury resort landing page built with HTML, CSS, and JavaScript, designed to deliver an elegant and immersive booking experience.
 
