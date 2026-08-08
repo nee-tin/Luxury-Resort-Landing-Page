@@ -19,4 +19,4 @@ JavaScript (ES6)
 📷 Preview
 
 🚀 Live Demo
-🔗 https://youtu.be/yqw2nqYBhxY
+🔗 https://youtu.be/yqw2nqYBhxY](https://youtu.be/5E7vJpi3MJs)
