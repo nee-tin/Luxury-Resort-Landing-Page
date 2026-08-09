@@ -1,6 +1,6 @@
 # Luxury Resort Landing Page
 
-A modern, responsive luxury resort landing page built with HTML, CSS, and JavaScript, designed to deliver an elegant and immersive booking experience.
+A modern, responsive luxury resort landing page built with Wordpress/Elementor, designed to deliver an elegant and immersive booking experience.
 
 ## ✨ Features
 
