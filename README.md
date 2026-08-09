@@ -1,6 +1,5 @@
 # Luxury Resort Landing Page
 
- 
 A modern, responsive luxury resort landing page built with HTML, CSS, and JavaScript, designed to deliver an elegant and immersive booking experience.
 
 ## ✨ Features
@@ -16,10 +15,9 @@ A modern, responsive luxury resort landing page built with HTML, CSS, and JavaSc
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
+- Wordpress
+- Elementor
+ 
 ## 📷 Preview
 
 <img src="https://raw.githubusercontent.com/nee-tin/assets/main/lux-hotel.png" width="100%" alt="Luxury Resort Landing Page">
