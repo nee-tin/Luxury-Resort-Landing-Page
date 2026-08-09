@@ -1,7 +1,6 @@
 # Luxury Resort Landing Page
 
-<img src="https://raw.githubusercontent.com/nee-tin/assets/main/lux-hotel.png" width="100%" alt="Luxury Resort Landing Page Preview">
-
+ 
 A modern, responsive luxury resort landing page built with HTML, CSS, and JavaScript, designed to deliver an elegant and immersive booking experience.
 
 ## ✨ Features
