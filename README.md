@@ -3,7 +3,7 @@
 
 A modern, responsive luxury resort landing page built with HTML, CSS, and JavaScript, designed to deliver an elegant and immersive booking experience.
 
-✨ Features
+# ✨ Features
 🌅 Full-screen hero section
 🏨 Premium resort showcase
 🛏️ Luxury rooms & suites
