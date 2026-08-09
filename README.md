@@ -23,4 +23,4 @@ A modern, responsive luxury resort landing page built with Wordpress/Elementor, 
 
 ## 🚀 Live Demo
 
-🔗 https://youtu.be/5E7vJpi3MJs
+🔗 https://youtu.be/Xnqz1awRJiE
