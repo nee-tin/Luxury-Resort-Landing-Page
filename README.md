@@ -15,8 +15,7 @@ A modern, responsive luxury resort landing page built with HTML, CSS, and JavaSc
 
 ## 🛠️ Built With
 
-- Wordpress
-- Elementor
+- Wordpress/Elementor
  
 ## 📷 Preview
 
